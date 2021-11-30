@@ -1,2 +1,2 @@
-# Reactjs-full-tutorial
-My reactjs full course tutorial
+# Reactjs seminar
+My reactjs full course seminar from Udemy
